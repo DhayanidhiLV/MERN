@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.LGYUipwp2Q1PCN0FdcQCVgHaEo&pid=Api&P=0&h=180");
+    background-size: cover;
+}
+.id{
+    background-color:rgba(173, 216, 230, 0.71);
+    padding: 50px;
+    border: 3px solid black;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 400px;
+}
